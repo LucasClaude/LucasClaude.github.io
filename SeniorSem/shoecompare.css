@@ -136,7 +136,7 @@ html{
     height: 600px;
     text-align: center;
 
-background: url("images/addidasbanner.png")no-repeat center top;
+background: url("image/addidasbanner.png")no-repeat center top;
 
 background-size: 50%;
 
@@ -168,7 +168,7 @@ padding: auto;
     height: 600px;
     text-align: center;
 
-background: url("images/nikelogo.jpg")no-repeat center top;
+background: url("image/nikelogo.jpg")no-repeat center top;
 
 background-size: 45%;
 
@@ -198,7 +198,7 @@ padding: auto;
     width: 100%;
     height: 400px;
     text-align: center;
-    background: url("images/underarm.png")no-repeat center center;
+    background: url("image/underarm.png")no-repeat center center;
     background-size: 40%;
 }
 
@@ -226,7 +226,7 @@ padding: auto;
     height: 600px;
     text-align: center;
 
-background: url("images/jordanlogo.png")no-repeat center top;
+background: url("image/jordanlogo.png")no-repeat center top;
 
 background-size: 45%;
 
