@@ -135,7 +135,7 @@ body .highlight {
 #showcase{
 min-height: 600px;
 min-width: 1300px;
-background: url("/image/showcase.jpg")no-repeat center center;
+background: url("image/showcase.jpg")no-repeat center center;
 background-size: 100%;
 background-position: 30% 70%;
 text-align: center;
